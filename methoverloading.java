@@ -11,5 +11,6 @@ public class methoverloading {
         double sum = obj.method(5.4,2.4);
         System.out.println("Sum is"+sum1);
         System.out.println("Sum is"+sum);
+        System.out.println("This is method overloading");
     }
 }
